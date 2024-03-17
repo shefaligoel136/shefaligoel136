@@ -7,4 +7,4 @@
 
 - 🔭 I'm Shefali Goel currently working at Mithyalabs as a Full Stack Software Engineer.
 - 📫 How to reach me: goel136shefali@gmail.com
-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shefaligoel136&show_icons=true&theme=radical)
+- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shefaligoel136&show_icons=true&theme=highcontrast)
