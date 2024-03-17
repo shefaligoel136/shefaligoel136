@@ -7,3 +7,4 @@
 
 - 🔭 I'm Shefali Goel currently working at Mithyalabs as a Full Stack Software Engineer.
 - 📫 How to reach me: goel136shefali@gmail.com
+- https://github-readme-stats.vercel.app/api?username=shefaligoel136&hide=contribs,prs
